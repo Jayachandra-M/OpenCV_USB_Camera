@@ -1,5 +1,4 @@
-/*Author : e-con Systems (Solution Engineering Team) 
- *Date   : 24/03/2022
+/*
  *Build  : sudo g++ -ggdb -std=c++0x C++_OpenCV_Application_updation.cpp -o C++_OpenCV_Application_updation `pkg-config --cflags --libs opencv4` -lpthread -ludev -lopencv_highgui -lopencv_imgproc
  *Use    : To Set Exposure,Gain,Red,Green and Blue Gain,Brightness,Current Frame Format,Zoom,pan,Tilt,Focus,Contrast,Sharpness,Gamma,Saturation,White Balance. 
  */
